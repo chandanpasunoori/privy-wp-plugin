@@ -14,7 +14,7 @@ function privy_admin_warnings() {
 }
 
 
-function privy_create_menu() {
+function privy_admin_menu() {
 	add_submenu_page('plugins.php', 'Privy Configuration', 'Privy Configuration', 'manage_options', 'privy-config', 'privy_settings_page');
   add_action( 'admin_init', 'register_privy_settings' );
 }
