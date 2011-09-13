@@ -2,7 +2,7 @@
 /*
 Plugin Name: Privy Widget Loader
 Plugin URI: http://getprivy.com/
-Description: Privy widget in plug-in form
+Description: Easily integrate the Privy merchant widget (getprivy.com).
 Version: 0.0.1
 Author: gantastic
 License: GPL2

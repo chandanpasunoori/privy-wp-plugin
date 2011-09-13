@@ -26,7 +26,7 @@ function register_privy_settings() {
 }
 
 function privy_settings_text() {
-  echo '<p>Main description of this section here.</p>';
+  echo '<p>The only piece of information Privy needs to get you up and running is your merchant account number. You can find this information in the Privy dashboard. Please contact support@getprivy.com if you have any issues.</p>';
 }
 
 function privy_merchant_id_setting() {
