@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Privy Widget
-Plugin URI: http://getprivy.com
+Plugin URI: http://privy.github.com/privy-wp-plugin/
 Description: This plugin adds the Privy javascript widget to all of your pages.
 Version: 1.0
 Author: Privy
