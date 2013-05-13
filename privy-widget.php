@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Privy Widget
-Plugin URI: http://privy.github.com/privy-wp-plugin/
+Plugin URI: http://privy.github.io/privy-wp-plugin/
 Description: Quickly install the Privy widget onto your Wordpress site.
 Version: 1.0
 Author: Privy Inc.
