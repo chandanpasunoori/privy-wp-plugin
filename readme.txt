@@ -1,5 +1,5 @@
 === Privy Widget Plugin ===
-Contributors: amille14
+Contributors: amille14, acmeyer9
 Tags: privy, e-commerce
 Requires at least: TBD
 Tested up to: TBD
@@ -7,7 +7,7 @@ Stable tag: TBD
 
 == Description ==
 
-Easily incorporate the Privy widget onto your site.
+Quickly install the Privy widget onto your Wordpress site.
 
 == Installation ==
 

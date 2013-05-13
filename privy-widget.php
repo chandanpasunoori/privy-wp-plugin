@@ -2,15 +2,15 @@
 /*
 Plugin Name: Privy Widget
 Plugin URI: http://privy.github.com/privy-wp-plugin/
-Description: This plugin adds the Privy javascript widget to all of your pages.
+Description: Quickly install the Privy widget onto your Wordpress site.
 Version: 1.0
-Author: Privy
+Author: Privy Inc.
 Author URI: http://getprivy.com
 License: MIT
 */
 
 /*
-Copyright (c) 2012 Privy
+Copyright (c) 2012 Privy Inc. (email : support@getprivy.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -37,7 +37,7 @@ function privy_settings_page() {
 	<?php screen_icon(); ?>
 	<h2>Privy Widget Plugin</h2>
 	<br/>
-	<form method="post" action="options.php"> 
+	<form method="post" action="options.php">
 	<?php
 		settings_fields( 'privy-settings-group' );
 		do_settings_fields( 'privy-settings-group' );
